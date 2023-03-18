@@ -1,0 +1,48 @@
+.addtodo-input{
+    margin: 0 0 10px 0;
+}
+.todo-doing-done{
+    display: flex;
+    gap: 10%;
+}
+.todo-main-div{
+    background-color: white;
+    box-shadow: 2px 2px 2px gray;
+    border-radius: 10px;
+    width: 25%;
+    /* height: 200px; */
+    text-align: center;
+    margin: 10px 0 0 0;
+}
+.todo-list{
+    background-color: white;
+    box-shadow: 2px 2px 2px gray;
+    border-radius: 10px;
+    margin: 10px 0 20px 70px;
+    width: 50%;
+    list-style: none;
+    font-size: 20px;
+}
+.doing{
+    background-color: white;
+    box-shadow: 2px 2px 2px gray;
+    border-radius: 10px;
+    width: 25%;
+    /* height: 200px; */
+    text-align: center;
+    margin: 10px 0 0 0;
+}
+.done{
+    background-color: white;
+    box-shadow: 2px 2px 2px gray;
+    border-radius: 10px;
+    width: 25%;
+    /* height: 200px; */
+    text-align: center;
+    margin: 10px 0 0 0;
+}
+.edit_btn{
+    position: relative;
+    left: 30%;
+    bottom: 40px;
+}
