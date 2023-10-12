@@ -8,7 +8,6 @@ const App = () => {
       <div className="todo-man-div">
                 <AddTodo />
       </div>
-    
     </div>
   );
 };
