@@ -6,9 +6,7 @@ const App = () => {
   return (
     <div className="app">
       <div className="todo-man-div">
-        
-
-        <AddTodo />
+                <AddTodo />
       </div>
     
     </div>
